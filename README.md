@@ -1,2 +1,2 @@
 # Mocha Test
-My first Mocha and Chai testtttt
+My first Mocha and Chai test
